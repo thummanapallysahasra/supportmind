@@ -1,0 +1,6 @@
+{
+  "name": "SupportMind - AI Customer Support Memory Agent",
+  "description": "Enterprise customer support agent powered by Hindsight persistent memory for TechKart electronics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
